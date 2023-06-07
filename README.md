@@ -1,3 +1,3 @@
 # ChickenResume
 
-A c\Chicken Resume done for fun
+A Chicken Resume done for fun
